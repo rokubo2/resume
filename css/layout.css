@@ -402,7 +402,12 @@
 		display: none;
 	}
 
+	.section.about .basic_info br {
+		display: block;
+	}
+
 }
+
 
 @media (max-width: 480px) {
 	.section.about .profile {
