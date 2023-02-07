@@ -392,6 +392,10 @@
 	display: block;
 }
 
+.section.about li{
+	margin-bottom: 8px;
+}
+
 @media (max-width: 1079px) {
 	.section.about h1 {
 		font-size: 40px;
